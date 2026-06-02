@@ -10,15 +10,15 @@
 # 👨‍💻 About Me
 
 * 🎓 B.Tech **Computer Science (Cyber Security)**
-  **Sri Venkateshwara College of Engineering, Tirupati**
+  Sri Venkateshwara College of Engineering, Tirupati
 
 * 📊 **CGPA:** 9.15 / 10
 
-* 💻 Passionate about **Full Stack Development, Generative AI, Agentic AI, and Cyber Security**
+* 💻 Passionate about **Full Stack Development, AI Applications, and Cyber Security**
 
-* 🚀 I enjoy building **scalable MERN applications, AI-powered tools, and intelligent agent workflows**
+* 🚀 I enjoy building **scalable MERN stack applications and AI-powered tools**
 
-* 🌱 Currently Learning
+* 🌱 Currently learning
 
   * Data Structures & Algorithms
   * System Design
@@ -28,93 +28,88 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-## 🎯 PrepMate AI – AI Placement Assistant
+### 🧠 AI Exam Notes Maker
 
-AI-powered placement preparation platform that helps students prepare smarter for placements and interviews.
+AI-powered MERN application that generates **exam-oriented notes automatically**
 
-### Features
+**Features**
 
-* AI Resume Analysis
-* Personalized Preparation Guides
-* Job Recommendations
-* Application Tracking
-* PDF Resume Parsing
-* JWT Authentication
-* Cloud Deployment
+* AI generated notes
+* Credit-based usage system
+* Google OAuth authentication
+* Stripe payment integration
+* PDF export functionality
+* Charts using Recharts
 
-### Tech Stack
-
-React.js • FastAPI • Python • MongoDB Atlas • OpenRouter AI • JWT • TailwindCSS • Render
-
-🔗 GitHub  
-https://github.com/Asif0718/PrepMateAi-Frontend
-
----
-
-## 🧠 AI Exam Notes Maker
-
-AI-powered MERN application that generates exam-oriented notes automatically.
-
-### Features
-
-* AI Generated Notes
-* Credit-Based Usage System
-* Google OAuth Authentication
-* Stripe Payment Integration
-* PDF Export Functionality
-* Interactive Charts using Recharts
-
-### Tech Stack
+**Tech Stack**
 
 React • Node.js • Express • MongoDB • JWT • Stripe • PDFKit • Recharts
 
-🔗 GitHub  
+🔗 GitHub
 https://github.com/Asif0718/1.ExamNotesAI
 
-🔗 Live Demo  
+🔗 Live Demo
 https://examnotesaiclient-ancn.onrender.com/
 
 ---
 
-## 📄 AI Resume Builder
+### 📄 AI Resume Builder
 
 AI-powered resume builder with customizable templates and smart content suggestions.
 
-### Features
+**Features**
 
-* Smart AI Content Suggestions
-* Customizable Resume Templates
-* Responsive User Interface
-* Secure Backend Architecture
+* Smart AI content suggestions
+* Customizable resume templates
+* Responsive UI
+* Secure backend
 
-### Tech Stack
+**Tech Stack**
 
-React • Node.js • Strapi • SQLite • ShadCN UI • TailwindCSS • REST APIs
+React • Node.js • Strapi • SQLite • ShadCN • TailwindCSS • REST APIs
 
-🔗 GitHub  
+🔗 GitHub
 https://github.com/Asif0718/Ai-Resume-Builder
 
-🔗 Live Demo  
+🔗 Live Demo
 https://ai-resume-builder-mauve-chi.vercel.app/
+
+### 🎯 PrepMate AI – AI Placement Assistant
+
+AI-powered placement preparation platform that helps students prepare smarter for placements and interviews.
+
+Features
+
+AI Resume Analysis
+Personalized Preparation Guides
+Job Recommendations
+Application Tracking
+PDF Resume Parsing
+JWT Authentication
+Cloud Deployment
+
+Tech Stack
+
+React.js • FastAPI • Python • MongoDB Atlas • OpenRouter AI • JWT • TailwindCSS • Render
+
+🔗 GitHub
+https://github.com/Asif0718/PrepMateAi-Frontend
 
 ---
 
-# 💼 Internship Experience
+# 💼 Internship
 
-## Full Stack MERN Intern
+### Full Stack MERN Intern
 
-**Smart Bridge Educational Services Pvt. Ltd. – APSCHE**
+Smart Bridge Educational Services Pvt. Ltd. – APSCHE
 
-📅 May 2025 – July 2025
+May 2025 – July 2025
 
-### Contributions
-
-* Built and deployed a complete MERN web application
-* Improved application response time by **25%**
-* Enhanced frontend responsiveness by **15%**
-* Worked with React, Node.js, Express, MongoDB, and REST APIs
+* Built and deployed a **MERN web application**
+* Improved application **response time by 25%**
+* Improved **frontend responsiveness by 15%**
 
 ---
 
@@ -126,38 +121,41 @@ https://ai-resume-builder-mauve-chi.vercel.app/
 
 <p align="center">
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 </p>
 
 ---
 
 # 🏆 Certifications & Achievements
 
-🥇 **Winner – Cyber Security Hackathon**  
+🥇 **Winner – Cybersecurity Hackathon**
 Supraja Technologies
 
-📜 **CCNA: Introduction to Networks** – Cisco
+📜 **CCNA – Introduction to Networks**
+Cisco
 
-📜 **AI Fundamentals Certification** – IBM
+📜 **AI Fundamentals Certification**
+IBM
 
-📜 **Cyber Security Basics & Roles** – edX
+📜 **Cyber Security Basics & Roles**
+EDX
 
-📜 **Responsive Website Development** – NxtWave
+📜 **Responsive Website Development**
+Nxt Wave
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Asif0718&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asif0718&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif0718&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
@@ -170,20 +168,14 @@ Supraja Technologies
 
 # 📫 Connect With Me
 
-📧 Email  
-mailto:mahammedasifqwerty@gmail.com
+📧 Email
+[mahammedasifqwerty@gmail.com](mailto:mahammedasifqwerty@gmail.com)
 
-💼 LinkedIn  
+💼 LinkedIn
 https://linkedin.com/in/mahammedasiff
 
-💻 GitHub  
+💻 GitHub
 https://github.com/Asif0718
-
----
-
-# 🚀 Career Objective
-
-Aspiring Software Engineer passionate about building impactful products using modern web technologies and AI. Seeking opportunities to contribute to innovative teams while continuously learning and growing in Full Stack Development, Artificial Intelligence, and Software Engineering.
 
 ---
 
